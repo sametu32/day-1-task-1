@@ -6,3 +6,4 @@ git push= nesneleri uzaktaki cihaza aktarır.
 git push -u origin master= kullanıcı adıyla sisteme yetki verilir.
 git log= yapılan işlmeleri gösterir.
 git rm ve git push origin=dosyayı siler
+git commit --amend= dosyayı kaydı değişikliği
